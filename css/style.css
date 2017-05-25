@@ -1,0 +1,46 @@
+body{
+
+	margin: 0 auto;
+}
+h1{
+	margin-left: 20px;
+}
+.container{
+	border: 1px solid  #d1d1e0;
+	margin: 20px auto;
+	padding: 10px;
+	width: 300px;
+	height: auto;
+	
+}
+.container-detail{
+	border: 1px solid  #d1d1e0;
+	margin: 0 auto;
+	margin-top: 15px;
+	padding: 20px;
+	width: 300px;
+	height: auto;
+	box-sizing: border-box;
+}
+
+.container-detail ul li{
+	list-style-type: none;
+
+}	
+.animal-list{
+	font-weight: bold;
+}
+.facts{
+	font-style: italic;
+}
+.img-lion{
+	border: 1px solid #d1d1e0;
+	width: 300px;
+	height: 200px;
+	display: block;
+	margin: auto;
+}
+ul, li {
+	margin-left: 0; 
+	padding-left: 0;
+}
